@@ -19,6 +19,6 @@ public class SpringBootTestApplication {
 	
 	@GetMapping
 	public String getMessage() {
-		return "Spring boot with Docker Image";
+		return "Spring boot with Docker Image V6";
 	}
 }
